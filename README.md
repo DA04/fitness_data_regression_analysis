@@ -1,4 +1,6 @@
 # Regression Analysis for fitness data
+The original article with the detailed description is available [here](https://habr.com/ru/post/666024/)
+
  This repo contains following scripts examples:
  1. FTP test general chart example built from parsed FIT data with Python and visualized with the help of matplotlib. [The script](FTP.py) contains basic calculations for FTP value.
  ![FTP test chart example](/ftp_test.png)
